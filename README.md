@@ -15,7 +15,7 @@
 const coffee = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, Python, PHP],
-  tools: [React, React Native, Redux, Node, Styled-Components, Jest],
+  tools: [React, React Native, Redux, Node, Styled-Components, Jest, Laravel],
   challenge: "I am making the habit of drinking 6 glasses of water",
   recess: ☕
 }
