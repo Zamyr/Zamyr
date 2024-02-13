@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2> Hi, I'm Zamyr! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="230">
 <p><em>Software Enginner <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
